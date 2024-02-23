@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :ioanteulea@gmail.com
 
+-My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,qt,html,css,js,java&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,qt,html,css,js,java&perline=7" />
   </a>
 </p>
 
