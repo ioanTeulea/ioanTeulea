@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C++,OOP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :ioanteulea@gmail.com
-
--My Skills
+- ✅My Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,qt,html,css,js,java&perline=7" />
