@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming and improving my skills.
 - 🌱 I’m currently learning:
 - [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py)](https://skillicons.dev)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a project that I am enthusiastic about and believe will contribute to my career advancement.
 - 📫 How to reach me :ioanteulea@gmail.com
 - ✅My Skills:
 <p align="center">
